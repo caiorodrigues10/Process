@@ -1,0 +1,74 @@
+.container{
+    height: 40px;
+    margin-left: 312px;
+    margin-top: 20px;
+
+    align-items: center;
+
+    display: flex;
+}
+
+.txtresult{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #2C2C2C;
+}
+
+.path{
+    height: 32px;
+    width: 1px;
+    margin-left: 43px;
+
+    border: 1px solid #979797;
+}
+
+.home{
+    height: 15px;
+    width: 13px;
+
+    margin-left: 13px;
+}
+
+.arrowright{
+    width: 11px;
+    height: 8px;
+
+    margin-left: 14px;
+}
+
+.txtcursos{
+    height: 17px;
+    width: 48px;
+    
+    margin-left: 11px;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+
+    color: #000000;
+}
+
+.settings{
+    height: 18px;
+    width: 18px;
+
+    margin-left: 71.7%;
+    z-index: 1;
+}
+
+.oval{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+
+    border-radius: 100%;
+    margin-left: 74.55%;
+    z-index: 0;
+
+    background: #717171;
+}

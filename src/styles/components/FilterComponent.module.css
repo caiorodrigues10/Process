@@ -1,0 +1,134 @@
+.container{
+    height: 1452px;
+    width: 371px;
+
+    left: 314px;
+    top: 245px;
+    border-radius: 8px;
+
+    position: absolute;
+
+    
+}
+
+.price{
+    display: flex;
+    height: 207px;
+    width: 119.5px;
+    
+    margin-top: 25px;
+    margin-left: 31.5px;
+}
+.price span{    
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 32px;
+    margin-top: -4px;
+    left: 53px;
+
+    position: absolute;
+}
+
+
+.price img{
+    height: 16px;
+    width: 16px;    
+    margin-bottom: 12px;
+}
+
+.txtprice{
+    height: 22px;
+    width: 63px;
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    
+    color: #2C2C2C;
+}
+
+.txtprice input{
+    margin-left: 1px;
+    margin-bottom: 18px;
+}
+
+.txtprice span{
+    margin-left: 10px;
+}
+
+.txtprice input[type='radio']:after {
+    width: 15px;
+    height: 15px;
+    border-radius: 15px;
+    top: -2px;
+    left: -1px;
+    position: relative;
+    background-color: white;
+    content: '';
+    display: inline-block;
+    visibility: visible;
+    border: 1px solid #969696;
+}
+
+.txtprice input[type='radio']:checked:after {
+    width: 15px;
+    height: 15px;
+    border-radius: 15px;
+    top: -2px;
+    left: -1px;
+    position: relative;
+    background-color: #969696;
+    content: '';
+    display: inline-block;
+    visibility: visible;
+    border: 1px solid #969696;
+}
+
+.slider{
+    height: 89.5px;
+    width: 323px;
+    margin-left: 30px;
+
+}
+
+.divider{
+    height: 1px;
+    width: 323px;
+    margin-top: 23.5px;
+    margin-bottom: 33.5px;
+
+    border: 1px solid #d6d6d6;
+}
+
+.value{
+    display: inline;
+    height: 22px;
+    width: 68px;
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #2C2C2C;
+}
+
+.value1{
+    height: 24px;
+    width: 108px;
+    
+    margin-left: 141px;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #2C2C2C;
+}
+
+.limits{
+    margin-top: 14px;
+}

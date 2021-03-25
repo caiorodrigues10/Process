@@ -1,0 +1,182 @@
+.container{
+    height: 1960px;
+    width: 280px;
+
+    left: 0%;
+    right: 85.42%;
+    top: 0%;
+    bottom: 0%;
+
+    position: absolute;
+}
+
+.brand{
+    width: 158px;
+    height: 51.1px;
+
+    left: 44px;
+    top: 29px;   
+
+    position: absolute;
+}
+
+.menu{
+    height: 66px;
+    width: 236px;
+
+    left: 24px;
+    top: 106px;
+    bottom: 91.22%;
+
+    position: absolute;
+}
+
+.horizontal {
+    height: 36px;
+    width: 236px;
+    border-radius: 4px;
+
+    left: 1.25%;
+    right: 86.46%;
+    top: 5.41%;
+    bottom: 92.76%;
+
+    background: #ECECEC;
+}
+
+.home{
+    height: 15.55555534362793px;
+    width: 14px;
+    
+    left: 4.93%;
+    right: 97.34%;
+    top: 16.87%;
+    bottom: 93.34%;
+
+    position: absolute;
+}
+
+.arrow{
+    height: 5px;
+    width: 10px;
+
+    left: 207px;
+    right: 87.14%;
+    top: 25.07%;
+    bottom: 93.67%;
+
+    position: absolute;
+}
+
+.dash{
+    height: 40px;
+    margin-left: 15%;
+    right: 91.35%;
+    top: calc(50% - 40px/2 - 845px);
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 40px;
+
+    color: #2C2C2C;
+}
+
+.app{
+    height: 194.90673828125px;
+    width: 112px;
+    left: 37px;
+    right: 92.24%;
+    top: 11.23%;
+    bottom: 78.83%;
+
+    position: absolute;
+
+    background: white;
+}
+
+.textapp{
+    height: 36px;
+    width: 38px;
+    left: 37px;
+    top: 210.09326171875px;
+    
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 36px;
+
+    position: absolute;
+
+    color: #999999;
+}
+
+.mail{
+    height: 12.866321563720703px;
+    width: 16px;
+
+    left: 37px;
+    top: 254.22802734375px;
+
+    position: absolute;
+}
+
+.message{
+    height: 16.082901000976562px;
+    width: 16px;
+    
+    right: 97.19%;
+    top: 14.92%;
+    bottom: 84.26%;    
+    left: 38px;
+
+    position: absolute;
+}
+
+.check{
+    height: 15.236433029174805px;
+    width: 16px;
+
+    left: 38px;
+    right: 97.19%;
+    top: 17.02%;
+    bottom: 82.2%;
+
+    position: absolute;
+}
+
+.calendar{
+    height: 18.093263626098633px;
+    width: 16px;
+
+    left: 38px;
+    right: 97.19%;
+    top: 19.07%;
+    bottom: 80%;
+
+    position: absolute;
+}
+
+.textmenu{
+    height: 163px;
+    width: 85px;
+    left: 64px;
+    top: 252px;
+    
+    color: #2C2C2C;
+
+    position: absolute;
+}
+
+.txtmsg{
+    margin-top: 22px;
+}
+
+.txtcheck{
+    margin-top: 26px;
+}
+
+.txtcalendar{
+    margin-top: 23px;
+}

@@ -1,0 +1,52 @@
+.container{
+    height: 62px;
+    margin-top: 30px;
+    margin-left: 317px;
+    
+    display:flex;    
+    align-items: center;
+}
+
+.container > div{
+    justify-content: space-around;
+}
+
+.container > img{
+    margin-left: 15px;
+}
+
+.secondpart{
+    display: flex;
+    margin-left: 63%;
+    align-items: center;
+}
+
+.nickname{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+.classuser{
+    display: block;
+
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 13px;
+    letter-spacing: 0px;
+    text-align: right;
+}
+
+.search{
+    height: 18px;
+    width: 18px;
+    margin-right: 28px;
+}
+
+.bell{
+    height: 19.998228073120117px;
+    width: 18px;
+    margin-right: 22px;
+}

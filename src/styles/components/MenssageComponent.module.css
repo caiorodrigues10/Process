@@ -1,0 +1,8 @@
+.container{
+    position: absolute;
+    width: 257px;
+    visibility: hidden;
+    height: 332px;
+    left: 75%;
+    top: 73px;
+}

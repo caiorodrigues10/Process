@@ -1,0 +1,166 @@
+.container{
+    display: flex;
+    height: 200px;
+    margin-left: 715px;
+
+    margin-top: 28px;
+    margin-bottom: 27px;
+    
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.imgnone{
+    height: 160px;
+    width: 163px;
+
+    margin-left: 10px;
+}
+
+.texts{
+    position: relative;
+    
+    left: 0%;
+    top: 22%;
+}
+
+.apple{
+    display: flex;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 19px;  
+}
+
+.byapple{
+    display: flex;
+
+    margin-top: 7px;
+
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 14px;
+
+    color: #7E7E7E;
+}
+
+.loren{
+    width: 340px;
+    height: 200px;
+
+
+    margin-top: 10px;
+
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 23px;
+    
+    display: block;
+    
+    color: #2C2C2C;
+}
+
+.componentsright{
+    display: block;
+    margin-right: 20px;
+}
+
+.avaliation{
+    height: 30px;
+    width: 60px;
+
+    margin-left: 60%;
+
+    border-radius: 3px;
+
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+
+    background: #787878;
+    color: #FFFFFF;
+
+    border: 0px;
+}
+
+.avaliation img{
+    margin-left: 10px;
+}
+
+.value{
+    display: block;
+
+    margin-left: 30%;
+    margin-top: 9px;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #2C2C2C;
+}
+
+.iloved{
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+    height: 35px;
+    width: 150px;
+    border-radius: 8px;
+    margin-top: 30px;
+    border: 0px;
+}
+
+.iloved label{
+    margin-left: 8px;
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 18px;
+
+    color: #2C2C2C;
+}
+
+.purchase{
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+    height: 35px;
+    width: 150px;
+    border-radius: 8px;
+
+    margin-top: 11px;
+
+    border: 0px;
+
+    background: #686868;
+}
+
+.purchase label{
+
+    margin-left: 10px;
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 18px;
+
+    color: #FFFFFF;
+}
